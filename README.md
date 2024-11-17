@@ -1,4 +1,4 @@
 # Bitcoin-Vanity-Address
 Vanity Address Generator in Python.
 
-README will be updated shortly.
+run : python main.py or python3 main.py
